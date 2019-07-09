@@ -1,5 +1,6 @@
 //prime算法
 //将城市X标记为visit=true时，就表示该城市加入到集合U，用sum累加记录边的总费用
+//其中对权重的更新非常重要
 
 #include<iostream>
 #include <stdio.h>
